@@ -1,0 +1,37 @@
+1. Basics of SQL Database- https://www.khanacademy.org/computing/computer-programming/sql
+
+https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB (12 videos only)
+
+2. Advance Python - https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
+
+3. Numpay - https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
+
+4. Pandas - https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy 
+
+5. Visualization - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
+
+6. Kagal - 
+-- Notebooks: https://www.kaggle.com/code
+-- Datasets: https://www.kaggle.com/datasets
+
+7.Math - https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l
+
+8. ML - https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr (14)
+
+9. DL Deep learning (artificial neural network, convolutional neural network, recurrent neural network) - https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+
+10. ML Ops -You need to learn atleast one Machine Learning Life Cycle tool. MLFlow is one such opensource tool. 
+Please practice tutorials on mlflow official website to get a feel of how these tools can automate machine learning life cycle.
+https://www.mlflow.org/docs/latest/tutorials-and-examples/index.html#
+
+
+11. Additional skills that will be helpful
+Pyspark, Hadoop, Distributed Computing
+Docker
+CI (Continuous Integration) & CD (Continuous Delivery) fundamentals, Jenkins
+Version control using Git
+FastApi, Tensorflow serving: To build http servers around the trained models
+NoSQL databases such as MongoDB
+
+
+12. Discord Link - https://discord.com/invite/r42Kbuk
