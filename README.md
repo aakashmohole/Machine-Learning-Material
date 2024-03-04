@@ -1,2 +1,2 @@
-# Machine-Learning-Phase_1-
+# Machine-Learning-Material
 Learning Phase 1
